@@ -351,7 +351,6 @@ public class InformationActivity extends AppCompatActivity {
         .userAgent(userAgent)
         //.userAgent(userAgent)
         .get();
-        //AIzaSyCurK8cv-fIuOgugS2Uc8Y4Gf64ontGv-E
         Elements links = document.select("a[href]");
         for(Element link : links) {
         System.out.println("link-> " + link.attr("abs:href"));
