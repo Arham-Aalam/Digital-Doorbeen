@@ -1,5 +1,4 @@
 # Digital Doorbeen
-## our minor project in 3rd year of engineering.
 ## An android app for getting real time object information through voice command and object detection
 
 # Watch Video here
